@@ -1,0 +1,9 @@
+{
+  "name": "check-exeter-login",
+  "version": "1.0.0",
+  "description": "A nodejs script to check a student's Exeter login.",
+  "author": "George Matheos",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}

@@ -7,6 +7,6 @@ node check-exeter-login.js exeterUsername exeterPassword
 ```
 It will print "Successful login" or "Unsuccessful login" depending on whether the credentials are valid (if no error occurs).
 
-This is designed to work with the connect.exeter.edu API as of May 2018.
+This is designed to work with the connect.exeter.edu API as of May 2018.  Note that you will have to install the npm package request for this to work (run ```npm install```).
 
 ~ George Matheos
